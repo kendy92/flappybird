@@ -1,2 +1,1 @@
-# flappybird
-Flappy bird clone
+# Huong dan git co ban
